@@ -1,5 +1,2 @@
-#JavaScript Udemy Course Section 15
-
-Not a original project.
-From Udemy course on JavaScript by Jonas Schmedtmann.
+# Working with API
 Geolocation API and OOP.
